@@ -44,3 +44,7 @@ build/
 target/
 
 .DS_Store
+.gitignore
+gradle/
+gradlew
+gradlew.bat
